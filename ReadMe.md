@@ -51,7 +51,7 @@ Estou buscando ativamente por oportunidades onde eu possa aplicar meu entusiasmo
 
 ### Sistemas Operacionais
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=silviojpa&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
