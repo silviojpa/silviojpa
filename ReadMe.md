@@ -53,6 +53,8 @@ Estou buscando ativamente por oportunidades onde eu possa aplicar meu entusiasmo
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+![GitHub](https://github.com/user-attachments/assets/f1da728d-f762-4c0c-b2c5-03f3915362ac)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=silviojpa&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=silviojpa&theme=shadow_blue&hide_border=false)<br/>
