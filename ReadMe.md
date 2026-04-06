@@ -64,5 +64,7 @@ Estou buscando ativamente por oportunidades onde eu possa aplicar meu entusiasmo
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=silviojpa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![HTTP_Code](https://github.com/user-attachments/assets/428c8ce2-737e-43cd-a50a-d134587267dd)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=silviojpa&icon=0&color=0)](https://visitcount.itsvg.in)
