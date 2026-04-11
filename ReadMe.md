@@ -50,9 +50,9 @@ Estou buscando ativamente por oportunidades onde eu possa aplicar meu entusiasmo
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
 ### Sistemas Operacionais
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![GitHub](https://github.com/user-attachments/assets/f1da728d-f762-4c0c-b2c5-03f3915362ac)
 <img width="502" height="750" alt="image" src="https://github.com/user-attachments/assets/5df07ca7-d393-46be-8311-f614c603a035" />
 
