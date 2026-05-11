@@ -61,6 +61,24 @@ Estou buscando ativamente por oportunidades onde eu possa aplicar meu entusiasmo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=silviojpa&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=silviojpa&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🔑 2. Autenticação e Git (SSH)
+Geração de chaves para deploy seguro e integração com GitHub para os usuários `ubuntu` e `root`.
+
+```Bash
+# Gerar chave
+ssh-keygen -t ed25519 -C "seu-email@exemplo.com" #Seu email cadastrado no github 
+
+# Adicionar ao agente SSH
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+
+# Exibir chave pública
+cat ~/.ssh/id_ed25519.pub
+
+# Testar autenticação
+ssh -T git@github.com
+```
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=silviojpa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
