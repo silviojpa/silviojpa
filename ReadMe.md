@@ -61,7 +61,7 @@ Estou buscando ativamente por oportunidades onde eu possa aplicar meu entusiasmo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=silviojpa&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=silviojpa&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🔑 2. Autenticação e Git (SSH)
+## 🔑 Autenticação e Git (SSH)
 Geração de chaves para deploy seguro e integração com GitHub para os usuários `ubuntu` e `root`.
 
 ```Bash
