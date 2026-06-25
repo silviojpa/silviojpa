@@ -8,8 +8,8 @@ Acredito no aprendizado contínuo através da prática (*hands-on*), aplicando o
 
 Estou buscando ativamente por oportunidades onde eu possa aplicar meu entusiasmo e minhas habilidades para resolver desafios. Se você procura um profissional dedicado e pronto para aprender, ou apenas quer conversar sobre tecnologia, vamos nos conectar!
 
-## 🌐 Socials:
-## << Silvio Luiz >>
+## 🌐 Socials: << Silvio Luiz >>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvio-ezequiel-938543246/)
 
 # 💻 Tech Stack:
