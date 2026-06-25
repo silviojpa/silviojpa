@@ -54,9 +54,7 @@ Estou buscando ativamente por oportunidades onde eu possa aplicar meu entusiasmo
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-![GitHub](https://github.com/user-attachments/assets/f1da728d-f762-4c0c-b2c5-03f3915362ac)
-<img width="502" height="750" alt="image" src="https://github.com/user-attachments/assets/5df07ca7-d393-46be-8311-f614c603a035" />
-
+------
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=silviojpa&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=silviojpa&theme=shadow_blue&hide_border=false)<br/>
@@ -81,6 +79,10 @@ ssh -T git@github.com
 ```
 
 ### 🔝 Top Contributed Repo
+![GitHub](https://github.com/user-attachments/assets/f1da728d-f762-4c0c-b2c5-03f3915362ac)
+
+<img width="502" height="750" alt="image" src="https://github.com/user-attachments/assets/5df07ca7-d393-46be-8311-f614c603a035" />
+
 ![](https://github-contributor-stats.vercel.app/api?username=silviojpa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ![HTTP_Code](https://github.com/user-attachments/assets/428c8ce2-737e-43cd-a50a-d134587267dd)
