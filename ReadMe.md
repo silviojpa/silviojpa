@@ -81,7 +81,7 @@ ssh -T git@github.com
 ### 🔝 Top Contributed Repo
 ![GitHub](https://github.com/user-attachments/assets/f1da728d-f762-4c0c-b2c5-03f3915362ac)
 
-<img width="502" height="750" alt="image" src="https://github.com/user-attachments/assets/5df07ca7-d393-46be-8311-f614c603a035" />
+<img width="630" height="850" alt="image" src="https://github.com/user-attachments/assets/5df07ca7-d393-46be-8311-f614c603a035" />
 
 ![](https://github-contributor-stats.vercel.app/api?username=silviojpa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
